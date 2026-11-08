@@ -4,16 +4,16 @@ function sumar(a,b) {
 }
 
 function restar(a,b) {
-    //esto es la suma
+    //esto es la resta
     return a-b;
 }
 
 function multiplicar(a,b) {
-    //esto es la suma
+    //esto es la multiplicar
     return a*b;
 }
 
 function dividir(a,b) {
-    //esto es la suma
+    //esto es la dividir
     return a*b;
 }
