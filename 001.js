@@ -12,3 +12,8 @@ function multiplicar(a,b) {
     //esto es la suma
     return a*b;
 }
+
+function dividir(a,b) {
+    //esto es la suma
+    return a*b;
+}
